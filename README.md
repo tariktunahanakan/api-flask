@@ -8,4 +8,6 @@ $ docker build -t apicase .
 
 $ docker run -d -p 5000:5000 apicase
 
+localhost:5000
 
+localhost:5000/temperature&city="city-name"
